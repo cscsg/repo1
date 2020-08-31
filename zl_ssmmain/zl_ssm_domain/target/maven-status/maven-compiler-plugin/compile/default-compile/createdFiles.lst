@@ -1,0 +1,8 @@
+com\zl\ssm\dao\SysLog.class
+com\zl\ssm\dao\Orders.class
+com\zl\ssm\dao\Permission.class
+com\zl\ssm\dao\Traveller.class
+com\zl\ssm\dao\Users.class
+com\zl\ssm\dao\Product.class
+com\zl\ssm\dao\Role.class
+com\zl\ssm\dao\Member.class
